@@ -1,4 +1,4 @@
 # Project-Calculator
-This is my first project
+This is the simple calculator project
 <br>
 Author- kajal kumari
